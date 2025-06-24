@@ -21,11 +21,11 @@ Matplotlib, Seaborn for visualizations
 Jupyter Notebook
 
  What I Did:
-Cleaned and understood the structure of the dataset
-Performed detailed EDA to visualize relationships between features and price
-Engineered new features like Days Left, Time of Day from timestamp values
-Prepared the dataset for machine learning by converting categorical variables and handling nulls
+* Cleaned and understood the structure of the dataset
+* Performed detailed EDA to visualize relationships between features and price
+* Engineered new features like Days Left, Time of Day from timestamp values
+* Prepared the dataset for machine learning by converting categorical variables and handling nulls
 
  Future Scope
-Train ML models like Linear Regression, Random Forest, 
-Build a web dashboard to input flight details and predict price
+* Train ML models like Linear Regression, Random Forest, 
+* Build a web dashboard to input flight details and predict price
