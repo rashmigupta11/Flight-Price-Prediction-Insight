@@ -5,19 +5,26 @@ It contains details like airline name, flight code, departure/arrival time, stop
 
  Features:
 Airline – Name of the airline (6 unique airlines)
+
 Flight – Flight code (categorical)
+
 Source & Destination City – Origin and landing cities (6 unique cities each)
+
 Departure & Arrival Time – Grouped time slots (morning, evening, etc.)
+
 Stops – Number of stops (0, 1, 2+)
+
 Class – Economy or Business
+
 Duration – Total travel time
+
 Days Left – Days between booking date and journey date
 Price – Target variable (ticket cost)
 
 Technologies Used:
 Python
 Pandas, NumPy
-Matplotlib, Seaborn for visualizations
+Matplotlib, Seaborn for visualizations, 
 Jupyter Notebook
 
  What I Did:
